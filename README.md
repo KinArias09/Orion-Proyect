@@ -23,8 +23,8 @@ Goals
 
 Play the Game
 
-You can play GuaraniCraft online at this link: https://guaranicraft.co/ 
-("This link opens better on a phone. We recommend using it on a phone for now.")
+You can play GuaraniCraft online at this link: ------> https://guaranicraft.co/ 
+("This link opens better on a phone. We recommend using it on a phone in site mode for computers for now.")
 
 Lesson Plan: Exploring the Guarani Sat 1 and its Impact on Earth
 
@@ -32,7 +32,7 @@ If you want to implement this in your teaching plan, feel free to do so:
 
 Objective: Help students understand the functions of the Guarani Sat 1, its importance in data collection, and how it influences our knowledge of the planet.
 
-Duration: 5 sessions of 1 hour each.
+Duration: 4 sessions of 1 hour each.
 
 Session 1: Introduction to Guarani Sat 1 and Satellites
 
@@ -58,13 +58,7 @@ Session 3: Satellites and Data Collection
 
     Activity: Analyze satellite images of different regions of the Earth.
 
-Session 4: Applications of Satellite Data
-
-    Discussion on how data is used to solve real-world problems (weather, agriculture, natural disasters).
-
-    Activity: Group project to research and present a specific use case.
-
-Session 5: Future of Space Technology and STEM Careers
+Session 4: Future of Space Technology and STEM Careers
 
     Talk about careers in mechanics, electronics, engineering, physics, and chemistry.
 
@@ -76,7 +70,7 @@ Evaluation:
 
     Group presentations on an aspect of Guarani Sat 1.
 
-    Quizzes and short tests to assess understanding of concepts.
+    Encourage discussion among students about the interactive game and its goal with SDG 4.
 
     Creative individual or group projects on how students see the future of space technology.
 
