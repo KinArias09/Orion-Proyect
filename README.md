@@ -24,6 +24,7 @@ Goals
 Play the Game
 
 You can play GuaraniCraft online at this link: https://guaranicraft.co/
+
 Lesson Plan: Exploring the Guarani Sat 1 and its Impact on Earth
 
 If you want to implement this in your teaching plan, feel free to do so:
