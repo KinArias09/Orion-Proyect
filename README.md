@@ -23,7 +23,7 @@ Goals
 
 Play the Game
 
-You can play GuaraniCraft online at this link: ------> https://edoin-san.github.io/prueba1/
+You can play GuaraniCraft online at this link: ------>[GuaraniCraft GAME](https://edoin-san.github.io/prueba1/)
 ("This link opens better on a phone. We recommend using it on a phone in site mode for computers for now.")
 
 Lesson Plan: Exploring the Guarani Sat 1 and its Impact on Earth
